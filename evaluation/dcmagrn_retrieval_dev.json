@@ -1,0 +1,31 @@
+
+[
+  {
+    "query_id": "q001",
+    "question": "What are the four main modules of DCMAGRN?",
+    "scope": "body",
+    "relevant_chunk_ids": ["docling_0028"],
+    "annotation_status": "partial"
+  },
+  {
+    "query_id": "q002",
+    "question": "Which datasets were used to benchmark DCMAGRN?",
+    "scope": "body",
+    "relevant_chunk_ids": ["docling_0018"],
+    "annotation_status": "partial"
+  },
+  {
+    "query_id": "q003",
+    "question": "How does DCMAGRN extract global and local gene expression features?",
+    "scope": "body",
+    "relevant_chunk_ids": ["docling_0041"],
+    "annotation_status": "partial"
+  },
+  {
+    "query_id": "q004",
+    "question": "What changes were made to the feature updating module in ablation variant v1?",
+    "scope": "body",
+    "relevant_chunk_ids": ["docling_0052"],
+    "annotation_status": "partial"
+  }
+]

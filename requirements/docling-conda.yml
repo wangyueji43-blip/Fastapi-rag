@@ -1,0 +1,7 @@
+name: rag-docling
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.11
+prefix: /wangyueji43/envs/rag-docling

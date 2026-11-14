@@ -1,0 +1,25 @@
+
+# FastAPI
+fastapi==0.162.0
+uvicorn==0.47.0
+pydantic==2.12.5
+pydantic-settings==2.14.1
+python-dotenv==1.2.2
+
+# LLM API
+openai==2.37.0
+
+# Embedding and Reranker
+sentence-transformers==3.0.1
+
+# Retrieval
+numpy==2.2.6
+rank-bm25==0.2.2
+jieba==0.42.1
+
+# PDF Processing
+PyMuPDF==1.28.2
+
+# Testing
+pytest==9.0.3
+httpx==0.28.1
